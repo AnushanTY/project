@@ -54,6 +54,8 @@ public class JobEntity {
     private LocationEntity locationEntity;
 
 
+
+
     public String getLoad_type() {
         return load_type;
     }
